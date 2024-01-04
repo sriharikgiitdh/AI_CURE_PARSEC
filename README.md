@@ -55,6 +55,6 @@ Following is the data dictionary for the features you will come across in the fi
 - `HR`: Heart rate of the patient at the time of data recorded
 
 ## Submission Details
-Along with the jupyter notebook with your experiments, you must also submit a file `run.py` which  uses your final model and takes the input `test_data.csv` as a command line argument and produces the output file `results.csv` with predicted Heart Rate value in it.
+In addition to the Jupyter notebook containing your experiments, you are required to provide a file named `run.py`. This script should utilize your final model and accept the input file `test_data.csv` as a command line argument. The output of the script should be a file named results.csv that contains the predicted Heart Rate values.
 
-Submissions will be judged on `test_data` which is not made available to participants. The sample of test data , `sample_test_data.csv` and the expected sample output file `sample_output_generated.csv` is also provided for reference.
+Evaluation of submissions will be based on a separate set of test data that is not disclosed to participants. For reference, a sample test data file named `sample_test_data.csv` and the expected output file `sample_output_generated.csv` are provided.
