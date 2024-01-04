@@ -6,11 +6,7 @@ The goal is to construct an advanced model capable of accurately predicting an i
 
 ## File Descriptions
 
-You have been provided with a total of 3 CSV files with the names as follows:
-
-- `time_domain_features_train.csv`: Contains all time domain features of heart rate for training data
-- `frequency_domain_features_train.csv`: Contains all frequency domain features of heart rate for training data
-- `heart_rate_non_linear_features_train.csv`: Contains all non-linear features of heart rate for training data
+The dataset is provided in `train_data.csv`.  
 
 ## Data Dictionary
 
